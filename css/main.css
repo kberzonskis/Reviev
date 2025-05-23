@@ -1,0 +1,166 @@
+* { 
+    box-sizing: border-box;
+}
+    
+.container{
+    background-color: rgb(216, 226 ,201);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container1{
+    display: flex; 
+    flex-direction: column;
+    align-content: space-between;
+    background-color: rgb(247, 248 ,234);
+    height: 45vh;
+    width: 85vw;
+    border-radius: 25px 25px 0 0 ;
+    box-sizing: border-box;
+    
+    
+}
+
+.container2{
+    background-color: rgb(246, 241 ,209);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 45vh;
+    width: 85vw;
+    border-radius: 0 0 25px 25px;
+}
+
+.nav-center { 
+   
+}
+
+ 
+
+
+.logo {
+   align-content: center;
+    width: 70px;
+    height: 40px;
+    border-radius:  25px 25px 0 0 ;
+
+    
+}
+
+.title-center {
+    
+    font-family: ' Lobster', cursive;
+    font-size: 30px;
+    justify-content: center;
+    font-weight: bold;
+   
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    align-content: first baseline;
+}
+
+.top { 
+    justify-content: space-around;
+   display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.nav-right { 
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.nav-center {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.img-rev { 
+
+ width: 150px;
+ height: 150px;
+ border-radius: 15px 3px  3px  15px;
+
+  
+    
+}
+
+
+.header { display: flex;
+    justify-content: center;
+
+}
+
+.foto { 
+display: flex;
+flex-direction: row;
+font-size: 10px;
+
+}
+
+.text-ratio { 
+    
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    float: inline-start;
+}
+
+
+
+
+.foto-rev { 
+
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 15px;
+    background-color: rgba(92, 92, 61, 0.281);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+
+
+}
+
+.bevardis 
+
+
+.bevardis2 { display: flex;
+    margin-left:  60px;
+}
+
+.top { 
+    justify-content: space-between;
+    display: flex;
+}
+.button { 
+
+    margin-top: 25px;
+    margin-left: 250px;
+    
+}
+
+
+.personalities-text{  
+    display: flex;
+    font-size: 7px ;
+   flex-direction: column;
+
+
+}
+.h2 { 
+    display: flex;
+}
+
+.h3 { 
+    display: flex;
+}
